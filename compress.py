@@ -26,7 +26,7 @@ def patch_image(image, patch_size=(1024, 1024)):
             patches.append(patch)
     return patches
 
-def process(name , model , image_folder = 'samples/inputs' , output_folder = 'C:/Users/tkalr/OneDrive/Desktop/Documents/Projects/compression/samples/outputs' , patch_size = (1024, 1024)):
+def process(name , model , image_folder = 'samples/inputs' , output_folder = 'samples/outputs' , patch_size = (1024, 1024)):
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
