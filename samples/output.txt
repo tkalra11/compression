@@ -1,0 +1,14 @@
+Model : bmshj2018_factorized
+Time : 763.7745847000042
+PSNR Range : (71.8751, 106.4426)
+MS-SSIM Range : (1.0, 1.0)
+Minimum compression in size(for a patch) : 1709
+Maximum compression in size(for a patch) : 1679442
+
+Model : bmshj2018_factorized_relu
+Time : 855.0026123999851
+PSNR Range : (71.8751, 106.4426)
+MS-SSIM Range : (1.0, 1.0)
+Minimum compression in size(for a patch) : 1709
+Maximum compression in size(for a patch) : 1679442
+

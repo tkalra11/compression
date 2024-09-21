@@ -1,0 +1,1440 @@
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 0)
+PSNR: 78.4399
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 1)
+PSNR: 78.2546
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 2)
+PSNR: 78.0452
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 3)
+PSNR: 77.7187
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 4)
+PSNR: 77.5908
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 5)
+PSNR: 77.7518
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 6)
+PSNR: 77.8430
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 7)
+PSNR: 77.7425
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 8)
+PSNR: 77.7578
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 9)
+PSNR: 77.7314
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 10)
+PSNR: 77.2439
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 11)
+PSNR: 77.0546
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 12)
+PSNR: 77.5446
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 13)
+PSNR: 78.0756
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 14)
+PSNR: 78.4016
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 15)
+PSNR: 96.2216
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 16)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 17)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 18)
+PSNR: 78.2570
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 19)
+PSNR: 78.0533
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 20)
+PSNR: 77.7713
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 21)
+PSNR: 77.4828
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 22)
+PSNR: 77.6438
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 23)
+PSNR: 77.5265
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 24)
+PSNR: 77.3323
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 25)
+PSNR: 77.1469
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 26)
+PSNR: 76.0890
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 27)
+PSNR: 75.4488
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 28)
+PSNR: 75.1668
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 29)
+PSNR: 75.2688
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 30)
+PSNR: 76.2819
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 31)
+PSNR: 76.3134
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 32)
+PSNR: 77.5964
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 33)
+PSNR: 96.3720
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 34)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 35)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 36)
+PSNR: 78.0994
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 37)
+PSNR: 77.7728
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 38)
+PSNR: 77.4342
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 39)
+PSNR: 77.3108
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 40)
+PSNR: 77.2421
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 41)
+PSNR: 76.5505
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 42)
+PSNR: 74.6579
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 43)
+PSNR: 73.2015
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 44)
+PSNR: 72.9316
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 45)
+PSNR: 72.7823
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 46)
+PSNR: 73.2464
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 47)
+PSNR: 74.6944
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 48)
+PSNR: 75.1431
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 49)
+PSNR: 74.4658
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 50)
+PSNR: 75.4900
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 51)
+PSNR: 95.2269
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 52)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 53)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 54)
+PSNR: 77.7939
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 55)
+PSNR: 77.4811
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 56)
+PSNR: 76.7137
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 57)
+PSNR: 75.8020
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 58)
+PSNR: 73.7037
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 59)
+PSNR: 72.2848
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 60)
+PSNR: 72.1000
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 61)
+PSNR: 72.9668
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 62)
+PSNR: 73.0855
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 63)
+PSNR: 73.1137
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 64)
+PSNR: 72.2946
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 65)
+PSNR: 71.9392
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 66)
+PSNR: 74.3923
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 67)
+PSNR: 75.0513
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 68)
+PSNR: 74.6155
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 69)
+PSNR: 93.6965
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 70)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 71)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 72)
+PSNR: 77.7227
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 73)
+PSNR: 76.8677
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 74)
+PSNR: 73.8388
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 75)
+PSNR: 72.5328
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 76)
+PSNR: 72.0300
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 77)
+PSNR: 73.3671
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 78)
+PSNR: 75.5964
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 79)
+PSNR: 76.4073
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 80)
+PSNR: 76.5700
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 81)
+PSNR: 76.5737
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 82)
+PSNR: 75.6154
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 83)
+PSNR: 72.7525
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 84)
+PSNR: 72.2609
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 85)
+PSNR: 75.4216
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 86)
+PSNR: 74.6850
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 87)
+PSNR: 92.6219
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 88)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 89)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 90)
+PSNR: 77.0734
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 91)
+PSNR: 74.7261
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 92)
+PSNR: 73.0630
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 93)
+PSNR: 72.2499
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 94)
+PSNR: 75.2160
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 95)
+PSNR: 76.7071
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 96)
+PSNR: 75.2658
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 97)
+PSNR: 75.0504
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 98)
+PSNR: 75.3141
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 99)
+PSNR: 75.1939
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 100)
+PSNR: 76.7707
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 101)
+PSNR: 75.7325
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 102)
+PSNR: 72.4838
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 103)
+PSNR: 74.0320
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 104)
+PSNR: 75.6817
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 105)
+PSNR: 92.8334
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 106)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 107)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 108)
+PSNR: 75.6432
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 109)
+PSNR: 75.1798
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 110)
+PSNR: 72.8278
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 111)
+PSNR: 73.6901
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 112)
+PSNR: 76.8917
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 113)
+PSNR: 75.8909
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 114)
+PSNR: 75.0438
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 115)
+PSNR: 75.0354
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 116)
+PSNR: 75.0911
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 117)
+PSNR: 75.0377
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 118)
+PSNR: 76.2326
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 119)
+PSNR: 76.7821
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 120)
+PSNR: 73.2981
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 121)
+PSNR: 73.4284
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 122)
+PSNR: 75.7347
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 123)
+PSNR: 93.7275
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 124)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 125)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 126)
+PSNR: 75.3469
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 127)
+PSNR: 75.0802
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 128)
+PSNR: 72.7371
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 129)
+PSNR: 74.0904
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 130)
+PSNR: 76.9820
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 131)
+PSNR: 76.0412
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 132)
+PSNR: 75.1348
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 133)
+PSNR: 75.0612
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 134)
+PSNR: 75.0375
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 135)
+PSNR: 75.0413
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 136)
+PSNR: 76.1823
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 137)
+PSNR: 77.0091
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 138)
+PSNR: 73.4056
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 139)
+PSNR: 73.6251
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 140)
+PSNR: 75.7375
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 141)
+PSNR: 94.0883
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 142)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 143)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 144)
+PSNR: 75.6893
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 145)
+PSNR: 74.5862
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 146)
+PSNR: 72.7085
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 147)
+PSNR: 73.2872
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 148)
+PSNR: 77.1474
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 149)
+PSNR: 77.2105
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 150)
+PSNR: 75.6515
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 151)
+PSNR: 75.0910
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 152)
+PSNR: 76.2867
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 153)
+PSNR: 76.2797
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 154)
+PSNR: 77.1884
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 155)
+PSNR: 76.7295
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 156)
+PSNR: 72.7239
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 157)
+PSNR: 74.1022
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 158)
+PSNR: 75.7001
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 159)
+PSNR: 94.8222
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 160)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 161)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 162)
+PSNR: 77.5174
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 163)
+PSNR: 74.8472
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 164)
+PSNR: 73.2840
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 165)
+PSNR: 72.1341
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 166)
+PSNR: 76.8385
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 167)
+PSNR: 77.3813
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 168)
+PSNR: 77.4347
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 169)
+PSNR: 77.5415
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 170)
+PSNR: 77.7151
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 171)
+PSNR: 77.5675
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 172)
+PSNR: 77.2104
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 173)
+PSNR: 74.4554
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 174)
+PSNR: 72.5488
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 175)
+PSNR: 74.6200
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 176)
+PSNR: 75.8926
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 177)
+PSNR: 94.4515
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 178)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 179)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 180)
+PSNR: 78.1196
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 181)
+PSNR: 77.2037
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 182)
+PSNR: 74.9703
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 183)
+PSNR: 72.2703
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 184)
+PSNR: 74.2465
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 185)
+PSNR: 77.0444
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 186)
+PSNR: 77.1816
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 187)
+PSNR: 77.2592
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 188)
+PSNR: 77.2842
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 189)
+PSNR: 77.1931
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 190)
+PSNR: 75.3363
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 191)
+PSNR: 72.3884
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 192)
+PSNR: 73.3467
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 193)
+PSNR: 74.8673
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 194)
+PSNR: 76.5330
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 195)
+PSNR: 95.2244
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 196)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 197)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 198)
+PSNR: 78.3845
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 199)
+PSNR: 77.9780
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 200)
+PSNR: 76.4533
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 201)
+PSNR: 73.5349
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 202)
+PSNR: 72.3562
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 203)
+PSNR: 73.8982
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 204)
+PSNR: 75.7770
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 205)
+PSNR: 76.3254
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 206)
+PSNR: 75.5117
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 207)
+PSNR: 73.9327
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 208)
+PSNR: 71.9905
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 209)
+PSNR: 72.4593
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 210)
+PSNR: 74.7675
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 211)
+PSNR: 76.2838
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 212)
+PSNR: 76.3855
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 213)
+PSNR: 94.8022
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 214)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 215)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 216)
+PSNR: 78.6427
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 217)
+PSNR: 78.2672
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 218)
+PSNR: 77.6797
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 219)
+PSNR: 75.8746
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 220)
+PSNR: 73.4863
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 221)
+PSNR: 72.3530
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 222)
+PSNR: 72.3626
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 223)
+PSNR: 72.3177
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 224)
+PSNR: 72.2075
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 225)
+PSNR: 71.8751
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 226)
+PSNR: 72.3307
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 227)
+PSNR: 74.5527
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 228)
+PSNR: 76.1019
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 229)
+PSNR: 76.6618
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 230)
+PSNR: 77.6532
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 231)
+PSNR: 95.8811
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 232)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 233)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 234)
+PSNR: 79.0190
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 235)
+PSNR: 78.6462
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 236)
+PSNR: 78.2064
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 237)
+PSNR: 76.8390
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 238)
+PSNR: 75.7637
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 239)
+PSNR: 75.6503
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 240)
+PSNR: 74.2241
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 241)
+PSNR: 73.8028
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 242)
+PSNR: 73.9381
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 243)
+PSNR: 74.2320
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 244)
+PSNR: 75.4553
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 245)
+PSNR: 75.4660
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 246)
+PSNR: 76.8090
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 247)
+PSNR: 77.1372
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 248)
+PSNR: 77.6509
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 249)
+PSNR: 96.3678
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 250)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 251)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 252)
+PSNR: 79.1380
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 253)
+PSNR: 78.9546
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 254)
+PSNR: 78.7191
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 255)
+PSNR: 76.9767
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 256)
+PSNR: 75.8249
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 257)
+PSNR: 75.7359
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 258)
+PSNR: 75.6189
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 259)
+PSNR: 76.0092
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 260)
+PSNR: 75.3400
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 261)
+PSNR: 75.6220
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 262)
+PSNR: 75.7824
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 263)
+PSNR: 75.8953
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 264)
+PSNR: 77.0201
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 265)
+PSNR: 77.2299
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 266)
+PSNR: 78.4617
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 267)
+PSNR: 96.3759
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 268)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 269)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 270)
+PSNR: 96.4053
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 271)
+PSNR: 96.3278
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 272)
+PSNR: 96.3700
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 273)
+PSNR: 94.5752
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 274)
+PSNR: 93.1992
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 275)
+PSNR: 93.4678
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 276)
+PSNR: 94.8343
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 277)
+PSNR: 95.2960
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 278)
+PSNR: 93.5042
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 279)
+PSNR: 94.1307
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 280)
+PSNR: 93.5852
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 281)
+PSNR: 94.1689
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 282)
+PSNR: 95.5126
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 283)
+PSNR: 95.2471
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 284)
+PSNR: 96.0058
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 285)
+PSNR: 105.6477
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 286)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
+Model : bmshj2018_factorized
+Filename : JP2K-33003-1.npy (patch 287)
+PSNR: 106.4426
+MS-SSIM: 1.0000
+
