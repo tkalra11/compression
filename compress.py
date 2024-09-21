@@ -83,7 +83,7 @@ if __name__ == "__main__":
     
     out_file = 'samples/output.txt'
     image_folder = 'samples/inputs'
-    output_folder = 'C:/Users/tkalr/OneDrive/Desktop/Documents/Projects/compression/samples/outputs'
+    output_folder = 'samples/outputs'
 
     for i in range(1,3):
         start = timeit.default_timer()
